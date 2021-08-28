@@ -84,3 +84,4 @@ The Winter CMS platform is open-sourced software licensed under the [MIT license
 ## Security Vulnerabilities
 
 Please review [our security policy](https://github.com/wintercms/winter/security/policy) on how to report security vulnerabilities.
+
